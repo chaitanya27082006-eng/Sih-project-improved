@@ -1,0 +1,31 @@
+hotspot_id,latitude,longitude,distance_to_facility_km,days_active,land_cover_type,frp,region,classification,confidence_percent,risk_level
+1,21.11181,72.63486,0.95,1,industrial,3.48,"Gujarat, India",Possible Industrial Fire,55,Medium
+2,21.45597,72.9502,0.74,1,industrial,3.95,"Gujarat, India",Possible Industrial Fire,55,Medium
+3,21.96141,72.51338,17.86,1,forest,6.19,"Gujarat, India",Wildfire / Natural Fire,80,Low
+4,18.48067,73.98694,2.14,1,farmland,5.5,"Maharashtra, India",Agricultural Burning,70,Medium
+5,18.68402,73.04089,0.34,1,industrial,8.87,"Maharashtra, India",Possible Industrial Fire,55,High
+6,18.68642,73.02856,1.27,1,industrial,1.21,"Maharashtra, India",Possible Industrial Fire,55,Medium
+7,18.86003,72.92754,0.55,1,industrial,1.39,"Maharashtra, India",Possible Industrial Fire,55,Medium
+8,28.275,77.1826,8.22,1,forest,0.78,"Haryana, India",Wildfire / Natural Fire,80,Low
+9,28.27803,77.27264,0.33,1,industrial,1.08,"Haryana, India",Possible Industrial Fire,55,Medium
+10,28.34835,77.25511,1.44,1,industrial,1.02,"Haryana, India",Possible Industrial Fire,55,Medium
+11,28.35967,77.24104,1.58,1,industrial,0.92,"Haryana, India",Possible Industrial Fire,55,Medium
+12,28.77395,77.56806,5.37,1,farmland,0.77,"Haryana, India",Agricultural Burning,70,Medium
+13,21.6993,72.54128,0.44,2,industrial,0.8,"Gujarat, India",Possible Industrial Fire,55,High
+14,18.80503,74.26031,2.3,1,farmland,0.97,"Maharashtra, India",Agricultural Burning,70,Medium
+15,28.72888,77.15527,0.94,1,industrial,0.78,"Haryana, India",Possible Industrial Fire,55,Medium
+16,28.77258,76.70015,2.2,1,farmland,2.26,"Haryana, India",Agricultural Burning,70,Medium
+17,28.83644,77.14004,1.24,1,industrial,2.12,"Haryana, India",Possible Industrial Fire,55,Medium
+18,21.10116,72.63661,1.22,3,industrial,9.18,"Gujarat, India",Industrial Fire,75,Critical
+19,21.10441,72.6459,0.65,3,industrial,6.65,"Gujarat, India",Industrial Fire,75,Critical
+20,21.10872,72.64648,0.31,3,industrial,6.65,"Gujarat, India",Industrial Fire,75,Critical
+21,21.10979,72.63779,0.62,2,industrial,3.95,"Gujarat, India",Possible Industrial Fire,55,High
+22,21.16485,72.6702,0.59,1,industrial,10.53,"Gujarat, India",Possible Industrial Fire,55,High
+23,21.16537,72.66583,0.4,1,industrial,10.37,"Gujarat, India",Possible Industrial Fire,55,High
+24,18.68483,73.02999,1.2,2,industrial,1.51,"Maharashtra, India",Possible Industrial Fire,55,Medium
+25,18.69197,73.03873,0.29,2,industrial,1.61,"Maharashtra, India",Possible Industrial Fire,55,High
+26,13.18113,79.91359,3.86,1,farmland,0.88,"Tamil Nadu, India",Agricultural Burning,70,Medium
+27,22.05133,88.12428,0.25,1,industrial,1.24,"West Bengal, India",Possible Industrial Fire,55,Medium
+28,28.34656,77.23035,2.88,1,farmland,1.73,"Haryana, India",Agricultural Burning,70,Medium
+29,28.37108,77.22758,0.61,3,industrial,1.12,"Haryana, India",Industrial Fire,75,High
+30,28.37121,77.22247,1.1,2,industrial,1.64,"Haryana, India",Possible Industrial Fire,55,Medium
